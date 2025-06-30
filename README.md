@@ -32,7 +32,7 @@ pip install -r requirements.txt
 ## Запуск приложения
 
 ```bash
-streamlit run app.py
+streamlit run Main.py
 ```
 
 
