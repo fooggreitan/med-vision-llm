@@ -23,13 +23,13 @@ python3 -m venv venv
 source venv/bin/activate
 ```
 
-# Установить зависимости
+## Установить зависимости
 ```bash
 pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
-#  Запуск приложения
+## Запуск приложения
 
 ```bash
 streamlit run app.py
